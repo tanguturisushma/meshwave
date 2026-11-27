@@ -5,6 +5,7 @@ def main():
     print("\n===== MESHWAVE PROJECT =====")
     print("1. Check CPU and RAM usage")
     print("2. Exit")
+    print("Please select an option from the menu.")
 
     choice = input("Enter your choice (1 or 2): ").strip()
 
